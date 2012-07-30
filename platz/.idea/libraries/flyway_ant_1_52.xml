@@ -1,0 +1,24 @@
+<component name="libraryTable">
+  <library name="flyway-ant-1.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/commons-pool-1.5.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/spring-tx-2.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/commons-dbcp-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/spring-beans-2.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/log4j-1.2.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/ant-launcher-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/flyway-ant-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/spring-context-2.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/jcl-over-slf4j-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/spring-core-2.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/ant-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/flyway-core-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/spring-jdbc-2.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/slf4j-api-1.5.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/flyway-ant-1.5/slf4j-log4j12-1.5.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

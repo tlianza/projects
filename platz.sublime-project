@@ -1,0 +1,41 @@
+{
+	"folders":
+	[
+		{
+			"path": "/home/tom/workspace/lockerz/platz/admin"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/app"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/catalog"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/common"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/dotcom"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/exactor"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/inventory"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/migration"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/order"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/photo"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/search"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/platz/service"
+		}
+	]
+}
