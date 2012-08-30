@@ -9,6 +9,9 @@
 		},
 		{
 			"path": "/home/tom/workspace/lockerz/pegasus/config"
+		},
+		{
+			"path": "/home/tom/workspace/lockerz/shared-interface/gen/php/Lockerz"
 		}
 	]
 }

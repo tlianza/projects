@@ -1,2 +1,4 @@
 *.sublime-workspace
 workspace.xml
+*.class
+*/bin/*
