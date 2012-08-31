@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/common-lib"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/service"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/common"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/build-lib"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/common-test"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/photo"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
