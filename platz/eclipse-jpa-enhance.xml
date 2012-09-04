@@ -1,30 +1,30 @@
-		<project name="Lockerz JPA Enhance" default="enhance">
-		<path id="enhance-cp">
+<project name="Lockerz JPA Enhance" default="enhance">
+	<path id="enhance-cp">
 		<fileset dir="/home/tom/workspace/lockerz/platz/common-lib">
-		<include name="**/*.jar"/>
+			<include name="**/*.jar"/>
 		</fileset>
 		<fileset dir="/home/tom/workspace/lockerz/platz/build-lib">
-		<include name="**/*.jar" />
+			<include name="**/*.jar" />
 		</fileset>
 		<dirset dir="/home/tom/workspace/projects/platz/">
-		<include name="**/bin" />
+			<include name="**/bin" />
 		</dirset>
-		</path>
-		<target name="enhance">
+	</path>
+	<target name="enhance">
 		<taskdef name="openjpac" classname="org.apache.openjpa.ant.PCEnhancerTask" classpathref="enhance-cp"/>
 		<openjpac>
-		<classpath refid="enhance-cp"/>
-		<config propertiesFile="/home/tom/workspace/lockerz/platz/service/src/main/resources/META-INF/service-persistence.xml"/>
+			<classpath refid="enhance-cp"/>
+			<config propertiesFile="/home/tom/workspace/lockerz/platz/service/src/main/resources/META-INF/service-persistence.xml"/>
 		</openjpac>
 
 		<openjpac>
-		<classpath refid="enhance-cp"/>
-		<config propertiesFile="/home/tom/workspace/lockerz/platz/inventory/src/main/resources/META-INF/inventory-persistence.xml"/>
+			<classpath refid="enhance-cp"/>
+			<config propertiesFile="/home/tom/workspace/lockerz/platz/inventory/src/main/resources/META-INF/inventory-persistence.xml"/>
 		</openjpac>
 
 		<openjpac>
-		<classpath refid="enhance-cp"/>
-		<config propertiesFile="/home/tom/workspace/lockerz/platz/admin/src/main/resources/META-INF/admin-persistence.xml"/>
+			<classpath refid="enhance-cp"/>
+			<config propertiesFile="/home/tom/workspace/lockerz/platz/admin/src/main/resources/META-INF/admin-persistence.xml"/>
 		</openjpac>
-		</target>
-		</project>
+	</target>
+</project>
