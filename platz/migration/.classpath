@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/tom/workspace/lockerz/platz/migration/lib/commons-compiler.jar"/>
+	<classpathentry kind="lib" path="/home/tom/workspace/lockerz/platz/migration/lib/flyway-core-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/tom/workspace/lockerz/platz/migration/lib/janino.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/common-lib"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
