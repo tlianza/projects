@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>migration</name>
+	<name>order</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,24 +22,14 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>decalz</name>
-			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/decalz</location>
-		</link>
-		<link>
 			<name>java</name>
 			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/src/main/java</location>
-		</link>
-		<link>
-			<name>lockerz</name>
-			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/lockerz</location>
+			<location>/home/tom/workspace/lockerz/platz/order/src/main/java</location>
 		</link>
 		<link>
 			<name>resources</name>
 			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/src/main/resources</location>
+			<location>/home/tom/workspace/lockerz/platz/order/src/main/resources</location>
 		</link>
 	</linkedResources>
 </projectDescription>
