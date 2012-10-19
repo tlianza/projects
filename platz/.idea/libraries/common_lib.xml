@@ -2,7 +2,6 @@
   <library name="common-lib">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/common-lib/dom4j-1.6.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/common-lib/spring-data-redis-1.0.0.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/spring-social-twitter-1.0.2.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/jetty-jndi-8.1.4.v20120524.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/xml-apis.jar!/" />
@@ -46,7 +45,6 @@
       <root url="jar://$PROJECT_DIR$/common-lib/jackson-all-1.9.3.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/org.springframework.context.support-3.1.0.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/spring-ws-1.5.2.jar!/" />
-      <root url="jar://$PROJECT_DIR$/common-lib/jedis-2.0.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/spring-oxm-1.5.9.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/org.springframework.transaction-3.1.0.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/geronimo-annotation_1.0_spec-1.1.1.jar!/" />
@@ -94,20 +92,27 @@
       <root url="jar://$PROJECT_DIR$/common-lib/httpcore-4.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/spring-security-crypto-3.1.0.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/aopalliance-1.0.jar!/" />
-      <root url="jar://$PROJECT_DIR$/common-lib/order-remote-0.0.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/jtds-1.2.5.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/commons-dbcp-1.4.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/spring-social-core-1.0.2.RELEASE.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/jetty-servlets-8.1.4.v20120524.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/commons-fileupload-1.2.1.jar!/" />
-      <root url="jar://$PROJECT_DIR$/common-lib/guava-11.0.1.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/joda-convert-1.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/newrelic-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/mybatis-spring-1.0.2.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/openjpa-2.2.0.jar!/" />
       <root url="jar://$PROJECT_DIR$/common-lib/simple-xml-2.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common-lib/protobuf-java-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common-lib/guava-13.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common-lib/order-remote-0.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common-lib/jedis-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common-lib/spring-data-redis-1.0.1.RELEASE.jar!/" />
     </CLASSES>
     <JAVADOC />
-    <SOURCES />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/common-lib/jsr305-1.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common-lib/libthrift-0.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/common-lib/newrelic-api.jar!/" />
+    </SOURCES>
   </library>
 </component>

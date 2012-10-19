@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/migration/lib/flyway-core-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/lib/commons-compiler.jar!/" />
+      <root url="jar://$PROJECT_DIR$/migration/lib/janino.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

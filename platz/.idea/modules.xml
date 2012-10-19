@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/dotcom/src/main/dotcom.iml" filepath="$PROJECT_DIR$/dotcom/src/main/dotcom.iml" />
       <module fileurl="file://$PROJECT_DIR$/exactor/src/test/exactor.iml" filepath="$PROJECT_DIR$/exactor/src/test/exactor.iml" />
       <module fileurl="file://$PROJECT_DIR$/inventory/src/main/inventory.iml" filepath="$PROJECT_DIR$/inventory/src/main/inventory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ios-api/src/main/ios-api.iml" filepath="$PROJECT_DIR$/ios-api/src/main/ios-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/migration/src/main/migration.iml" filepath="$PROJECT_DIR$/migration/src/main/migration.iml" />
       <module fileurl="file://$PROJECT_DIR$/order/src/test/order.iml" filepath="$PROJECT_DIR$/order/src/test/order.iml" />
       <module fileurl="file://$PROJECT_DIR$/photo/src/main/photo.iml" filepath="$PROJECT_DIR$/photo/src/main/photo.iml" />
       <module fileurl="file://$PROJECT_DIR$/search/src/test/search.iml" filepath="$PROJECT_DIR$/search/src/test/search.iml" />

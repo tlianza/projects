@@ -19,6 +19,11 @@
 
 		<openjpac>
 			<classpath refid="enhance-cp"/>
+			<config propertiesFile="/home/tom/workspace/lockerz/platz/order/src/main/resources/META-INF/fraud-persistence.xml"/>
+		</openjpac>
+
+		<openjpac>
+			<classpath refid="enhance-cp"/>
 			<config propertiesFile="/home/tom/workspace/lockerz/platz/inventory/src/main/resources/META-INF/inventory-persistence.xml"/>
 		</openjpac>
 

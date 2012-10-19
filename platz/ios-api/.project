@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>migration</name>
+	<name>ios-api</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -22,34 +22,19 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>bits</name>
+			<name>gen-java</name>
 			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/bits</location>
-		</link>
-		<link>
-			<name>decalz</name>
-			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/decalz</location>
+			<location>/home/tom/workspace/lockerz/platz/ios-api/src/main/gen-java</location>
 		</link>
 		<link>
 			<name>java</name>
 			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/src/main/java</location>
-		</link>
-		<link>
-			<name>lockerz</name>
-			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/lockerz</location>
+			<location>/home/tom/workspace/lockerz/platz/ios-api/src/main/java</location>
 		</link>
 		<link>
 			<name>resources</name>
 			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/src/main/resources</location>
-		</link>
-		<link>
-			<name>sql</name>
-			<type>2</type>
-			<location>/home/tom/workspace/lockerz/platz/migration/bits/sql</location>
+			<location>/home/tom/workspace/lockerz/platz/ios-api/src/main/resources</location>
 		</link>
 	</linkedResources>
 </projectDescription>

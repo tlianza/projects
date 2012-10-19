@@ -14,6 +14,12 @@
       <entry name="?*.dtd" />
       <entry name="?*.tld" />
       <entry name="?*.ftl" />
+      <entry name="?*.stg" />
+      <entry name="?*.css" />
+      <entry name="?*.js" />
+      <entry name="?*.less" />
+      <entry name="?*.txt" />
+      <entry name="?*.sql" />
     </wildcardResourcePatterns>
     <annotationProcessing enabled="false" useClasspath="true" />
   </component>

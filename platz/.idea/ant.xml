@@ -10,6 +10,40 @@
       <maximumStackSize value="2" />
       <properties />
     </buildFile>
+    <buildFile url="file://$PROJECT_DIR$/service/intellij-jpa-enhance.xml">
+      <additionalClassPath />
+      <antReference projectDefault="true" />
+      <customJdkName value="" />
+      <maximumHeapSize value="128" />
+      <maximumStackSize value="2" />
+      <properties />
+    </buildFile>
+    <buildFile url="file://$PROJECT_DIR$/admin/intellij-jpa-enhance.xml">
+      <additionalClassPath />
+      <antReference projectDefault="true" />
+      <customJdkName value="" />
+      <maximumHeapSize value="128" />
+      <maximumStackSize value="2" />
+      <properties />
+    </buildFile>
+    <buildFile url="file://$PROJECT_DIR$/order/intellij-jpa-enhance.xml">
+      <additionalClassPath>
+        <entry path="file://$PROJECT_DIR$/order/src/main/java" />
+      </additionalClassPath>
+      <antReference projectDefault="true" />
+      <customJdkName value="" />
+      <maximumHeapSize value="128" />
+      <maximumStackSize value="2" />
+      <properties />
+    </buildFile>
+    <buildFile url="file://$PROJECT_DIR$/inventory/intellij-jpa-enhance.xml">
+      <additionalClassPath />
+      <antReference projectDefault="true" />
+      <customJdkName value="" />
+      <maximumHeapSize value="128" />
+      <maximumStackSize value="2" />
+      <properties />
+    </buildFile>
   </component>
 </project>
 

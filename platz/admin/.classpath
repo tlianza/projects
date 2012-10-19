@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="java"/>
+	<classpathentry kind="src" path="resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/common-lib"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/app"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/catalog"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/common"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/dotcom"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/exactor"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/inventory"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/migration"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/order"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/photo"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/search"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/service"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

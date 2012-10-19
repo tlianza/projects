@@ -20,4 +20,16 @@
 		<nature>org.springframework.ide.eclipse.core.springnature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>java</name>
+			<type>2</type>
+			<location>/home/tom/workspace/lockerz/platz/admin/src/main/java</location>
+		</link>
+		<link>
+			<name>resources</name>
+			<type>2</type>
+			<location>/home/tom/workspace/lockerz/platz/admin/src/main/resources</location>
+		</link>
+	</linkedResources>
 </projectDescription>
